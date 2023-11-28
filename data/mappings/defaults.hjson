@@ -79,6 +79,12 @@
             "board": "STEMCELL",
             "bootloader": "tinyuf2",
             "processor": "STM32F411"
+            "board": "QMK_PM2040"
+        },
+        "imera": {
+            "processor": "RP2040",
+            "bootloader": "rp2040",
+            "board": "QMK_PM2040"
         }
     }
 }
